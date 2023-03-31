@@ -2,6 +2,8 @@
 
 ### Introduction About the Data :
 
+Please this project is of a student. Just wanted to appreciate for knowledge sharing 
+
 **The dataset** The goal is to predict `price` of given diamond (Regression Analysis).
 
 There are 10 independent variables (including `id`):
